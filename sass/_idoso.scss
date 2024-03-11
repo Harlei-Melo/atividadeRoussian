@@ -1,4 +1,4 @@
 *,*::after,*::before{
  -webkit-backdrop-filter: blur(25px);
-
+ transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
